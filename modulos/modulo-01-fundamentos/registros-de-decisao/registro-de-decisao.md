@@ -1785,6 +1785,7 @@ Este arquivo estabelece uma distinção estrutural muito importante para o Siste
 > O Teste de Coerência verifica se uma escolha respeita esses fundamentos.
 > O Protocolo de Decisão governa o percurso completo da escolha.**
 
+<<<<<<< HEAD
 O próximo arquivo lógico é o **`registro-de-decisao.md`**: um template mais compacto, destinado ao preenchimento em cada decisão real. Ele não repetirá toda a teoria do protocolo; funcionará como a interface operacional utilizada no cotidiano.
 
 ---
@@ -1792,3 +1793,5 @@ O próximo arquivo lógico é o **`registro-de-decisao.md`**: um template mais c
 A estrutura deste arquivo permite que a mesma decisão acompanhe todo o ciclo: começa como uma questão, transforma-se em escolha, segue para execução e termina como conhecimento institucional.
 
 Para manter o cotidiano leve, decisões do caminho rápido podem usar somente as seções 1, 2, 7, 9, 11, 13, 14 e 16. As demais tornam-se obrigatórias conforme aumentam impacto, risco e irreversibilidade.
+=======
+>>>>>>> 27600549f7b452c8b69e3d27dd7eb9622f598202
