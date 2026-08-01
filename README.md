@@ -1,0 +1,1 @@
+# arquitetura-organizacional-adaptativa
