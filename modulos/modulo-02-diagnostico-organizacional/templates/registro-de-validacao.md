@@ -1510,5 +1510,3 @@ Uma validação responsável pode produzir:
 Seu resultado mais importante não é o consenso.
 
 É uma compreensão mais rigorosa, explícita e utilizável.
-
-Com este arquivo, o ciclo diagnóstico passa a registrar formalmente a diferença entre **ser informado, concordar, corrigir e validar**. O próximo documento de fechamento é o `retrospectiva.md`, que transformará cada diagnóstico concluído em aprendizagem para o próprio Sistema Operacional.
