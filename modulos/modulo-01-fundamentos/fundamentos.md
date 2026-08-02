@@ -1109,5 +1109,3 @@ Também fiz uma escolha deliberada ao separar:
 * **critérios de entrada**, que controlam como ferramentas e agentes passam a fazer parte do sistema.
 
 Isso impede que o “kernel” permaneça apenas filosófico. Ele já começa a governar decisões concretas.
-
-O próximo movimento mais coerente é criar dentro do próprio Módulo 1 um segundo arquivo operacional: **`teste-de-coerencia.md`**, transformando as doze perguntas do kernel em um formulário reutilizável para projetos, serviços, automações e decisões internas.
