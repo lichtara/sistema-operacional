@@ -2278,5 +2278,3 @@ A maturidade aparece quando a organização consegue reconhecer:
 * quem responderá pela continuidade.
 
 A tecnologia cumpre sua função quando amplia a capacidade organizacional sem retirar da organização a compreensão sobre o próprio funcionamento.
-
-O próximo documento da pasta é `ferramentas/maturidade-organizacional.md`, que deverá avaliar a capacidade de sustentar **direção, responsabilidades, processos, decisões, conhecimento, aprendizagem, governança e mudança**, sem confundir formalização com maturidade.
