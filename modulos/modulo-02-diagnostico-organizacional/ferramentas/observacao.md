@@ -1953,5 +1953,3 @@ Assim, permanecem separadas:
 
 * `ferramentas/observacao.md`: fundamentos, seleção, condução e limites do método;
 * `templates/ficha-de-observacao.md`: instrumento preenchível para cada ocorrência real.
-
-O próximo documento da sequência é `ferramentas/analise-documental.md`.
