@@ -1,5 +1,3 @@
-O plano de investigação começa depois que o briefing foi aprovado. Ele transforma a intenção diagnóstica em uma sequência controlada de produção de evidências.
-
 # Plano de Investigação
 
 ```yaml
@@ -1752,5 +1750,3 @@ Este plano cria a cadeia operacional:
 > **questão → hipótese → fonte → método → evidência esperada → responsável → validação.**
 
 Essa relação será uma das estruturas centrais do método LICHTARA. Ela impede que a investigação se transforme em uma sucessão de reuniões e documentos sem vínculo claro com a decisão que precisa ser apoiada.
-
-O próximo template é o `roteiro-de-entrevista.md`, primeiro instrumento de coleta do módulo.
