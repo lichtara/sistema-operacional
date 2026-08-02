@@ -1891,5 +1891,3 @@ Assim, ficam claramente separadas as duas funções:
 
 * `ferramentas/entrevista.md` orienta **quando, por que e como utilizar a entrevista**;
 * `templates/roteiro-de-entrevista.md` é o **instrumento preenchível de cada aplicação real**.
-
-O próximo documento da sequência é `ferramentas/observacao.md`.
