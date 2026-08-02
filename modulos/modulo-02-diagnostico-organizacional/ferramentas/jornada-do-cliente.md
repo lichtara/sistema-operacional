@@ -2392,5 +2392,3 @@ Sua qualidade depende da capacidade de distinguir:
 Uma jornada responsável não fala pelo cliente sem tê-lo escutado.
 
 Ela preserva a diferença entre experiência, evidência e interpretação para que a organização possa compreender o que realmente produz em cada encontro.
-
-O próximo documento da sequência é `ferramentas/mapa-de-processos.md`, que deverá distinguir **processo declarado, prescrito, observado, atual e futuro**, além de preservar decisões, exceções, transferências e trabalho invisível.
