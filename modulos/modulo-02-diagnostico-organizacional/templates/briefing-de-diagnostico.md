@@ -1,5 +1,3 @@
-O briefing deve ser suficientemente completo para impedir ambiguidades de escopo, mas curto o bastante para ser preenchido antes de qualquer investigação aprofundada.
-
 # Briefing de Diagnóstico Organizacional
 
 ```yaml
@@ -1065,16 +1063,3 @@ Esta seção deve ser preenchida após a aprovação do briefing.
 
 `[Síntese.]`
 
-## Próximo documento
-
-`plano-de-investigacao.md`
-
-Este template cria uma fronteira importante: **antes do briefing aprovado, existe uma demanda; depois dele, existe um diagnóstico formalmente autorizado**.
-
-Também preservei a separação entre três elementos que costumam ser confundidos:
-
-* o **problema preliminar**, que ainda pode ser reformulado;
-* a **questão diagnóstica**, que orienta a investigação;
-* a **decisão apoiada**, que explica para que o diagnóstico será utilizado.
-
-O próximo template lógico é o `plano-de-investigacao.md`, no qual cada pergunta será vinculada às fontes, ferramentas, evidências esperadas, responsáveis, cronograma e tratamento dos dados.
