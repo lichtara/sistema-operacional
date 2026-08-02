@@ -2998,5 +2998,3 @@ Uma estrutura pode ser simples e madura.
 Também pode ser complexa e frágil.
 
 A avaliação cumpre sua função quando torna visível que capacidades a organização já possui, que complexidade consegue sustentar e que condições precisam existir antes de seu próximo movimento.
-
-Com este documento, o **Módulo 2 — Diagnóstico Organizacional** está completo em suas quatro camadas: fundamentos metodológicos, protocolo, instrumentos operacionais e ferramentas de investigação. Ele agora conduz o trabalho desde a formulação da pergunta até a transição validada para a arquitetura organizacional.
