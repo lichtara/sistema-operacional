@@ -193,16 +193,16 @@ Nenhuma função substitui a integração. As saídas convergem para a Arquitetu
 
 | Arquivo | Função principal | Pergunta central | Saída típica |
 | --- | --- | --- | --- |
-| `estado-atual-e-estado-futuro.md` | Delimitar referência, mudança e capacidades | O que deve ser preservado, alterado, criado ou encerrado? | Comparação atual–futuro e mapa de capacidades |
-| `arquitetura-de-processos-e-fluxos.md` | Desenhar trabalho, transferências e exceções | Como resultados, informação e responsabilidade se movimentam? | Processos e fluxos futuros |
-| `papeis-responsabilidades-e-alcadas.md` | Distribuir participação, responsabilidade e autoridade | Quem executa, responde, decide, consulta, verifica e mantém? | Matriz de papéis e alçadas |
-| `arquitetura-de-informacao-e-conhecimento.md` | Organizar objetos informacionais e conhecimento crítico | O que precisa ser produzido, encontrado, compreendido e preservado? | Arquitetura de informação e conhecimento |
-| `arquitetura-da-comunicacao.md` | Desenhar coordenação e passagem de contexto | Que comunicação sustenta decisão, alinhamento e mudança? | Sistema de eventos, públicos e confirmações |
-| `arquitetura-documental.md` | Definir memória formal e ciclo de vida documental | Que documento precisa existir, para cumprir qual função e sob qual controle? | Arquitetura de documentos e registros |
-| `arquitetura-de-indicadores.md` | Relacionar observação, interpretação e decisão | O que precisa ser observado para operar, decidir, aprender e proteger? | Sistema de indicadores, controles e respostas |
-| `arquitetura-de-tecnologia-e-integracoes.md` | Definir capacidades técnicas e interfaces | Que suporte técnico é necessário e como sistemas e dados se conectam? | Arquitetura técnica e de integrações |
-| `arquitetura-de-inteligencia-artificial.md` | Definir funções de IA, limites e supervisão | Que capacidade pode ser ampliada por IA e sob qual responsabilidade? | Arquitetura de funções e controles de IA |
-| `avaliacao-de-alternativas.md` | Comparar configurações por critérios prévios | Que alternativa oferece a melhor relação entre atendimento, impacto e sustentabilidade? | Avaliação comparativa e recomendação |
+| `01-estado-atual-e-estado-futuro.md` | Delimitar referência, mudança e capacidades | O que deve ser preservado, alterado, criado ou encerrado? | Comparação atual–futuro e mapa de capacidades |
+| `02-arquitetura-de-processos-e-fluxos.md` | Desenhar trabalho, transferências e exceções | Como resultados, informação e responsabilidade se movimentam? | Processos e fluxos futuros |
+| `03-papeis-responsabilidades-e-alcadas.md` | Distribuir participação, responsabilidade e autoridade | Quem executa, responde, decide, consulta, verifica e mantém? | Matriz de papéis e alçadas |
+| `04-arquitetura-de-informacao-e-conhecimento.md` | Organizar objetos informacionais e conhecimento crítico | O que precisa ser produzido, encontrado, compreendido e preservado? | Arquitetura de informação e conhecimento |
+| `05-arquitetura-da-comunicacao.md` | Desenhar coordenação e passagem de contexto | Que comunicação sustenta decisão, alinhamento e mudança? | Sistema de eventos, públicos e confirmações |
+| `06-arquitetura-documental.md` | Definir memória formal e ciclo de vida documental | Que documento precisa existir, para cumprir qual função e sob qual controle? | Arquitetura de documentos e registros |
+| `07-arquitetura-de-indicadores.md` | Relacionar observação, interpretação e decisão | O que precisa ser observado para operar, decidir, aprender e proteger? | Sistema de indicadores, controles e respostas |
+| `08-arquitetura-de-tecnologia-e-integracoes.md` | Definir capacidades técnicas e interfaces | Que suporte técnico é necessário e como sistemas e dados se conectam? | Arquitetura técnica e de integrações |
+| `09-arquitetura-de-inteligencia-artificial.md` | Definir funções de IA, limites e supervisão | Que capacidade pode ser ampliada por IA e sob qual responsabilidade? | Arquitetura de funções e controles de IA |
+| `10-avaliacao-de-alternativas.md` | Comparar configurações por critérios prévios | Que alternativa oferece a melhor relação entre atendimento, impacto e sustentabilidade? | Avaliação comparativa e recomendação |
 
 ## 11. Técnicas transversais
 
@@ -210,7 +210,7 @@ O protocolo também prevê três técnicas que não constituem, neste estágio, 
 
 | Técnica | Onde é governada | Uso |
 | --- | --- | --- |
-| Mapa de capacidades | `estado-atual-e-estado-futuro.md` e Arquitetura Integrada | Relacionar capacidades existentes, futuras, dependências e horizontes |
+| Mapa de capacidades | `01-estado-atual-e-estado-futuro.md` e Arquitetura Integrada | Relacionar capacidades existentes, futuras, dependências e horizontes |
 | Protótipo | Ficha dimensional pertinente e Registro de Validação | Materializar parte do desenho para obter evidência antes da aprovação |
 | Simulação | Ficha dimensional pertinente, Arquitetura Integrada e Registro de Validação | Executar cenários normais, excepcionais, de falha e retorno |
 
@@ -491,7 +491,7 @@ A ordem pode variar. O projeto deve registrar dependências e ciclos de retorno.
 
 ## 27. Estado atual e estado futuro
 
-**Arquivo:** `estado-atual-e-estado-futuro.md`
+**Arquivo:** `01-estado-atual-e-estado-futuro.md`
 
 ### 27.1 Utilizar quando
 
@@ -526,7 +526,7 @@ A ordem pode variar. O projeto deve registrar dependências e ciclos de retorno.
 
 ## 28. Arquitetura de processos e fluxos
 
-**Arquivo:** `arquitetura-de-processos-e-fluxos.md`
+**Arquivo:** `02-arquitetura-de-processos-e-fluxos.md`
 
 ### 28.1 Utilizar quando
 
@@ -561,7 +561,7 @@ A ordem pode variar. O projeto deve registrar dependências e ciclos de retorno.
 
 ## 29. Papéis, responsabilidades e alçadas
 
-**Arquivo:** `papeis-responsabilidades-e-alcadas.md`
+**Arquivo:** `03-papeis-responsabilidades-e-alcadas.md`
 
 ### 29.1 Utilizar quando
 
@@ -596,7 +596,7 @@ A ordem pode variar. O projeto deve registrar dependências e ciclos de retorno.
 
 ## 30. Arquitetura de informação e conhecimento
 
-**Arquivo:** `arquitetura-de-informacao-e-conhecimento.md`
+**Arquivo:** `04-arquitetura-de-informacao-e-conhecimento.md`
 
 ### 30.1 Utilizar quando
 
@@ -631,7 +631,7 @@ A ordem pode variar. O projeto deve registrar dependências e ciclos de retorno.
 
 ## 31. Arquitetura da comunicação
 
-**Arquivo:** `arquitetura-da-comunicacao.md`
+**Arquivo:** `05-arquitetura-da-comunicacao.md`
 
 ### 31.1 Utilizar quando
 
@@ -666,7 +666,7 @@ A ordem pode variar. O projeto deve registrar dependências e ciclos de retorno.
 
 ## 32. Arquitetura documental
 
-**Arquivo:** `arquitetura-documental.md`
+**Arquivo:** `06-arquitetura-documental.md`
 
 ### 32.1 Utilizar quando
 
@@ -701,7 +701,7 @@ A ordem pode variar. O projeto deve registrar dependências e ciclos de retorno.
 
 ## 33. Arquitetura de indicadores
 
-**Arquivo:** `arquitetura-de-indicadores.md`
+**Arquivo:** `07-arquitetura-de-indicadores.md`
 
 ### 33.1 Utilizar quando
 
@@ -736,7 +736,7 @@ A ordem pode variar. O projeto deve registrar dependências e ciclos de retorno.
 
 ## 34. Arquitetura de tecnologia e integrações
 
-**Arquivo:** `arquitetura-de-tecnologia-e-integracoes.md`
+**Arquivo:** `08-arquitetura-de-tecnologia-e-integracoes.md`
 
 ### 34.1 Utilizar quando
 
@@ -772,7 +772,7 @@ A ordem pode variar. O projeto deve registrar dependências e ciclos de retorno.
 
 ## 35. Arquitetura de inteligência artificial
 
-**Arquivo:** `arquitetura-de-inteligencia-artificial.md`
+**Arquivo:** `09-arquitetura-de-inteligencia-artificial.md`
 
 ### 35.1 Utilizar quando
 
@@ -809,7 +809,7 @@ A ordem pode variar. O projeto deve registrar dependências e ciclos de retorno.
 
 ## 36. Avaliação de alternativas
 
-**Arquivo:** `avaliacao-de-alternativas.md`
+**Arquivo:** `10-avaliacao-de-alternativas.md`
 
 ### 36.1 Utilizar quando
 
@@ -845,7 +845,7 @@ A ordem pode variar. O projeto deve registrar dependências e ciclos de retorno.
 
 ## 37. Mapa de capacidades
 
-O mapa de capacidades integra a ficha `estado-atual-e-estado-futuro.md`.
+O mapa de capacidades integra a ficha `01-estado-atual-e-estado-futuro.md`.
 
 ### 37.1 Função
 
@@ -1457,16 +1457,16 @@ Ao final de cada projeto, a retrospectiva deve registrar:
 
 As fichas devem ser construídas nesta sequência:
 
-1. `estado-atual-e-estado-futuro.md`;
-2. `arquitetura-de-processos-e-fluxos.md`;
-3. `papeis-responsabilidades-e-alcadas.md`;
-4. `arquitetura-de-informacao-e-conhecimento.md`;
-5. `arquitetura-da-comunicacao.md`;
-6. `arquitetura-documental.md`;
-7. `arquitetura-de-indicadores.md`;
-8. `arquitetura-de-tecnologia-e-integracoes.md`;
-9. `arquitetura-de-inteligencia-artificial.md`;
-10. `avaliacao-de-alternativas.md`.
+1. `01-estado-atual-e-estado-futuro.md`;
+2. `02-arquitetura-de-processos-e-fluxos.md`;
+3. `03-papeis-responsabilidades-e-alcadas.md`;
+4. `04-arquitetura-de-informacao-e-conhecimento.md`;
+5. `05-arquitetura-da-comunicacao.md`;
+6. `06-arquitetura-documental.md`;
+7. `07-arquitetura-de-indicadores.md`;
+8. `08-arquitetura-de-tecnologia-e-integracoes.md`;
+9. `09-arquitetura-de-inteligencia-artificial.md`;
+10. `10-avaliacao-de-alternativas.md`.
 
 ### 61.1 Razão da sequência
 
@@ -1813,5 +1813,6 @@ O portfólio cumpre sua função quando permite responder:
 **Status:** Em desenvolvimento e validação pela prática  
 **Quantidade de fichas centrais previstas:** 10  
 **Técnicas transversais reconhecidas:** mapa de capacidades, protótipo e simulação  
-**Primeira ficha a construir:** `estado-atual-e-estado-futuro.md`  
+**Fichas construídas:** `01-estado-atual-e-estado-futuro.md`, `02-arquitetura-de-processos-e-fluxos.md`, `03-papeis-responsabilidades-e-alcadas.md`, `04-arquitetura-de-informacao-e-conhecimento.md`, `05-arquitetura-da-comunicacao.md`, `06-arquitetura-documental.md` e `07-arquitetura-de-indicadores.md`  
+**Próxima ficha a construir:** `08-arquitetura-de-tecnologia-e-integracoes.md`  
 **Observações:** [Preencher]
