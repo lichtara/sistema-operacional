@@ -2268,5 +2268,3 @@ Assim, permanecem distintas:
 
 * `ferramentas/analise-documental.md`: fundamentos, critérios, seleção, análise e limites;
 * `templates/inventario-documental.md`: instrumento preenchível para registrar e avaliar o acervo real.
-
-O próximo documento da sequência é `ferramentas/swot.md`.
