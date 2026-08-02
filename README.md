@@ -4,11 +4,13 @@ Sistema Operacional do Estúdio LICHTARA: uma arquitetura para organizar conheci
 
 ## modulos
 
-- [01-fundamentos](modulos/01-fundamentos.md)
-- [02-diagnostico-organizacional](modulos/02-diagnostico-organizacional.md)
-- [03-arquitetura-organizacional](modulos/03-arquitetura-organizacional.md)
-- [04-implantacao](modulos/04-implantacao.md)
-- [05-operacao](modulos/05-operacao.md)
-- [06-inteligencia-organizacional](modulos/06-inteligencia-organizacional.md)
-- [07-ecossistema-de-ia](modulos/07-ecossistema-de-ia.md)
-- [08-evolucao](modulos/08-evolucao.md)
+| Módulo                | Pergunta central                                            | Resultado produzido                   |
+| --------------------- | ----------------------------------------------------------- | ------------------------------------- |
+| 1 — Fundamentos       | Sob quais princípios atuamos?                               | Kernel do sistema                     |
+| 2 — Diagnóstico       | O que está acontecendo e por quê?                           | Compreensão baseada em evidências     |
+| 3 — Arquitetura       | Que organização futura pode responder a essa realidade?     | Desenho organizacional integrado      |
+| 4 — Implantação       | Como transformar o desenho em funcionamento real?           | Mudança implementada e adotada        |
+| 5 — Operação          | Como sustentar, acompanhar e ajustar?                       | Funcionamento contínuo                |
+| 6 — Inteligência      | O que cada projeto ensina ao Estúdio?                       | Conhecimento reutilizável             |
+| 7 — Ecossistema de IA | Que inteligências participam e sob quais responsabilidades? | Sistema de agentes governado          |
+| 8 — Evolução          | O que deve mudar no próprio método?                         | Sistema Operacional versionado e vivo |
