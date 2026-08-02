@@ -1184,5 +1184,3 @@ Agora temos duas camadas distintas:
 
 * `matriz-de-evidencias.md`, na raiz do módulo, explica **o método e seus critérios**;
 * `templates/matriz-de-evidencias.md` é o **instrumento preenchível de cada diagnóstico**.
-
-O próximo template lógico é `sintese-diagnostica.md`, que transformará os achados consolidados em uma leitura clara da situação atual, sem ainda assumir a extensão de um relatório completo.
