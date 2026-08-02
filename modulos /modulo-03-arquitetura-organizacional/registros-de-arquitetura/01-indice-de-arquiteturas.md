@@ -1234,4 +1234,3 @@ No Estúdio LICHTARA, nenhum projeto desaparece por ter mudado de estado. Ele pe
 **Fonte de governança:** `README.md` deste diretório  
 **Próximo documento previsto:** `02-registro-de-arquitetura.md`  
 **Observações:** [Preencher]
-
