@@ -1899,5 +1899,3 @@ Depende da capacidade de:
 O relatório não deve utilizar a complexidade da organização para produzir uma documentação inacessível.
 
 Ele deve transformar complexidade em compreensão estruturada, sem reduzir a realidade além do que as evidências permitem.
-
-Com este template, o diagnóstico passa a possuir três níveis de comunicação claramente distintos: **matriz para rastreabilidade, síntese para compreensão essencial e relatório para documentação completa**. O próximo template estrutural é o `transicao-para-arquitetura.md`, que encerrará o trabalho do Módulo 2 e transferirá requisitos validados ao Módulo 3.
