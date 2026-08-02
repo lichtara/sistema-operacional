@@ -2068,5 +2068,3 @@ Um Canvas bem preenchido pode continuar metodologicamente frágil.
 Um Canvas com lacunas explícitas pode ser muito mais útil, porque mostra exatamente o que a organização ainda precisa compreender.
 
 A ferramenta cumpre sua função quando a representação amplia o diagnóstico sem substituir a realidade que procura representar.
-
-O próximo documento da sequência é `ferramentas/jornada-do-cliente.md`, que deverá distinguir com rigor a **jornada vivida**, a **jornada declarada**, a **jornada observada** e a **jornada futura projetada**.
