@@ -1810,5 +1810,3 @@ Uma ameaça somente se torna estratégica quando existe exposição real.
 Quando construída sem evidências, a SWOT organiza opiniões.
 
 Quando construída com delimitação, rastreabilidade e análise, ela ajuda a transformar diagnóstico em orientação estratégica sem antecipar a solução.
-
-O próximo documento da sequência é `ferramentas/canvas.md`, que deverá começar esclarecendo que **“Canvas” não é uma ferramenta única** e que a escolha do modelo depende do objeto que precisa ser representado.
