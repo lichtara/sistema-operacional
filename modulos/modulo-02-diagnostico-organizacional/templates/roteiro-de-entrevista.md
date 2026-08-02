@@ -1422,4 +1422,3 @@ Para entrevistas simples e de baixo risco, utilizar:
 **Próxima ação:**
 `[Preencher]`
 
-O próximo template da sequência é o `ficha-de-observacao.md`. Ele fará pela observação direta o que este roteiro faz pelas entrevistas: separar o que ocorreu, o contexto em que ocorreu e a interpretação posterior.
