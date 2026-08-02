@@ -2023,4 +2023,3 @@ Sem retrospectiva, o trabalho pode ser concluído, mas o sistema permanece igual
 
 Com retrospectiva, cada diagnóstico se torna também uma forma de aperfeiçoar a capacidade do Estúdio de compreender organizações.
 
-Com este documento, o conjunto de templates operacionais do Módulo 2 está completo. O próximo movimento mais coerente é estruturar `registros-de-diagnostico/README.md`, definindo como cada diagnóstico real será aberto, nomeado, organizado, protegido, encerrado e arquivado.
