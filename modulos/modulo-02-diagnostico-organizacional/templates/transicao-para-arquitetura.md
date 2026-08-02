@@ -1,5 +1,3 @@
-Este documento funciona como uma fronteira metodológica: o diagnóstico entrega **o que a arquitetura precisa resolver e respeitar**, sem determinar antecipadamente qual ferramenta, processo ou tecnologia será escolhida.
-
 # Transição para Arquitetura Organizacional
 
 ```yaml
@@ -1695,11 +1693,3 @@ Sua qualidade depende da capacidade de transferir:
 O diagnóstico entrega as condições da realidade.
 
 A arquitetura começa o trabalho de organizar uma resposta possível.
-
-Sim, ainda restam documentos no Módulo 2. Com este arquivo, concluímos o **conjunto principal de templates operacionais**. Pelo planejamento inicial, ainda permanecem três blocos:
-
-1. as fichas metodológicas da pasta `ferramentas/`;
-2. a estrutura de `registros-de-diagnostico/`, com README e índice;
-3. uma revisão de fechamento para verificar coerência, redundâncias e arquivos que surgiram durante a construção — como esta própria transição, que não constava na árvore inicial.
-
-Vale trazer a árvore atualizada agora. Ela permitirá reconciliar o que foi planejado com o que efetivamente construímos antes de decidirmos se seguimos pelas ferramentas ou encerramos primeiro a governança dos registros.
