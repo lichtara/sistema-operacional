@@ -1519,5 +1519,3 @@ A síntese ocupa uma posição muito precisa no sistema:
 
 > **A matriz preserva a arquitetura completa das evidências.
 > A síntese revela a arquitetura essencial da compreensão.**
-
-O próximo template coerente é o `relatorio-de-diagnostico.md`, destinado aos casos em que a síntese precisa ser expandida com metodologia, análises, mapas, evidências, validações e anexos.
