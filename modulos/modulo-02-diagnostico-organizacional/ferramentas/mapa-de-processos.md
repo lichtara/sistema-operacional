@@ -2713,5 +2713,3 @@ Uma ocorrência observada pode não representar todas as outras.
 Um processo futuro pode parecer coerente e ainda ultrapassar a capacidade da organização.
 
 O mapa cumpre sua função quando preserva essas diferenças e oferece uma representação suficientemente precisa para compreender o trabalho antes de redesenhá-lo.
-
-O próximo documento da sequência é `ferramentas/maturidade-digital.md`, que deverá avaliar **a capacidade de sustentar tecnologia, dados, automação e IA**, e não a quantidade ou modernidade das ferramentas utilizadas.
