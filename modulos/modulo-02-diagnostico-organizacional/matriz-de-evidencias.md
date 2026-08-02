@@ -1511,4 +1511,3 @@ Seu papel é impedir que o diagnóstico dependa apenas da autoridade de quem o p
 | ------ | ---------- | ----------------------------------------- | ---------------- |
 | 0.1    | 01/08/2026 | Criação do método da Matriz de Evidências | Estúdio LICHTARA |
 
-Com este arquivo, o núcleo metodológico do Módulo 2 está estabelecido: **fundamentos, protocolo e rastreabilidade das evidências**. O próximo movimento coerente é começar os templates operacionais, iniciando pelo `briefing-de-diagnostico.md`, que será a porta de entrada de cada investigação real.
