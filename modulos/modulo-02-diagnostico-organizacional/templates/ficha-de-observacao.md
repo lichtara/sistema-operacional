@@ -1506,5 +1506,3 @@ A ficha preserva uma distinção decisiva para o método:
 > **A observação registra o que ocorreu.
 > A análise procura compreender o que isso significa.
 > O diagnóstico somente conclui depois de comparar essa observação com outras evidências.**
-
-O próximo template lógico é o `inventario-documental.md`, destinado a registrar quais documentos existem, sua versão, finalidade, atualidade, uso real, confiabilidade e relação com as questões diagnósticas.
