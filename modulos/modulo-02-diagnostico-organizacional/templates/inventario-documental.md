@@ -1843,4 +1843,4 @@ O inventário permite distinguir quatro condições que frequentemente aparecem 
 
 > **um documento pode existir, estar vigente, ser utilizado e orientar efetivamente a prática — ou cumprir apenas algumas dessas condições.**
 
-Essa distinção será especialmente importante quando diagnosticarmos organização do conhecimento, processos, governança e maturidade digital. O próximo template lógico é a versão operacional de `matriz-de-evidencias.md`, destinada ao preenchimento dentro de cada diagnóstico real.
+Essa distinção será especialmente importante quando diagnosticarmos organização do conhecimento, processos, governança e maturidade digital. 
